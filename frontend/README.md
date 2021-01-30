@@ -6,7 +6,7 @@ This a front end app for [wolt summer2021-internship assignment](https://github.
 
 Make sure you have Nodejs first, and before all you should run:
 
-`yarn` or `npm install`
+`$ yarn` or `$ npm install`
 
 to install dependencies.
 
@@ -14,7 +14,7 @@ to install dependencies.
 
 Before start app, you should build app first by
 
-`$ yarn build` or `npm build`
+`$ yarn build` or `$ npm build`
 
 To start app in production mode, please run
 
@@ -30,13 +30,13 @@ The production mode runs in `http://localhost:3001`
 
 Before start app, you should start json server first by
 
-`$ yarn server` or `npm run server`
+`$ yarn server` or `$ npm run server`
 
 The server runs in `http://localhost:3001`
 
 And then run
 
-`$ yarn start` or `npm start`
+`$ yarn start` or `$ npm start`
 
 to start app in development mode.
 
@@ -46,4 +46,4 @@ The development mode runs in `http://localhost:3000`
 
 Run tests by
 
-`$ yarn test` or `npm test`
+`$ yarn test` or `$ npm test`
