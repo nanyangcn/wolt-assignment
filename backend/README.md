@@ -6,7 +6,7 @@ This a back end api for [wolt summer2021-internship assignment](https://github.c
 
 Make sure you have Nodejs first, and before all you should run:
 
-`yarn` or `npm install`
+`$ yarn` or `$ npm install`
 
 to install dependencies.
 
@@ -14,7 +14,7 @@ to install dependencies.
 
 Before start api, you should build api first by
 
-`$ yarn tsc` or `npm tsc`
+`$ yarn tsc` or `$ npm tsc`
 
 To start api in production mode, please run
 
@@ -30,7 +30,7 @@ The production mode runs in `http://localhost:3001`
 
 Run api in development mode by
 
-`$ yarn start` or `npm start`
+`$ yarn start` or `$ npm start`
 
 to start api in development mode.
 
@@ -40,4 +40,4 @@ The development mode runs in `http://localhost:3001`
 
 Run tests by
 
-`$ yarn test` or `npm test`
+`$ yarn test` or `$ npm test`
