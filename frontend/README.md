@@ -22,7 +22,7 @@ To start app in production mode, please run
 
 You can also run app with Docker by
 
-`docker run --rm -it -p 3001:3001 nanyangcn/wolt-frontend`
+`$ docker run --rm -it -p 3001:3001 nanyangcn/wolt-frontend`
 
 The production mode runs in `http://localhost:3001`
 
@@ -40,7 +40,7 @@ And then run
 
 to start app in development mode.
 
-The development mode runs in `http://localhost:3001`
+The development mode runs in `http://localhost:3000`
 
 ## Test
 
