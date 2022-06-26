@@ -1,4 +1,4 @@
-# Wolt Assignment Front End
+# Wolt Assignment Back End
 
 This a back end api for [wolt summer2021-internship assignment](https://github.com/woltapp/summer2021-internship).
 
